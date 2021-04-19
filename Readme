@@ -1,7 +1,10 @@
 #MergeConflict-smeerws
 
+Fall 1: GitHub: Online was ändern, offline was ändern, offline pushen --> merge conflict
 
-GitHub: Online was ändern, offline was ändern, offline pushen --> merge conflict
+
+
+
 Lokal: Beim Merge von 2 Branches
 Lokal: Das gleiche Projekt wird mehrmals geclont und verändert und gepushed
 
