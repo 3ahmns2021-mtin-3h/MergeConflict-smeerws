@@ -1,0 +1,10 @@
+#MergeConflict-smeerws
+
+
+GitHub: Online was ändern, offline was ändern, offline pushen --> merge conflict
+Lokal: Beim Merge von 2 Branches
+Lokal: Das gleiche Projekt wird mehrmals geclont und verändert und gepushed
+
+olgende Quellen/Tutorials ansehen und lesen: Playlist YouTube Part 8,9, 11
+ https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR und den 
+Article https://git-scm.com/book/de/v2/Git-Branching-Einfaches-Branching-und-Merging ab "Einfaches Merging"
